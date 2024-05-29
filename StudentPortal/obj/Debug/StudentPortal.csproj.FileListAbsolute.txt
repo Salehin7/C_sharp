@@ -1,0 +1,11 @@
+D:\booksandstuff\c#\StudentPortal\bin\Debug\StudentDatabase.accdb
+D:\booksandstuff\c#\StudentPortal\bin\Debug\StudentPortal.exe.config
+D:\booksandstuff\c#\StudentPortal\bin\Debug\StudentPortal.exe
+D:\booksandstuff\c#\StudentPortal\bin\Debug\StudentPortal.pdb
+D:\booksandstuff\c#\StudentPortal\obj\Debug\StudentPortal.csproj.AssemblyReference.cache
+D:\booksandstuff\c#\StudentPortal\obj\Debug\StudentPortal.Form1.resources
+D:\booksandstuff\c#\StudentPortal\obj\Debug\StudentPortal.Properties.Resources.resources
+D:\booksandstuff\c#\StudentPortal\obj\Debug\StudentPortal.csproj.GenerateResource.cache
+D:\booksandstuff\c#\StudentPortal\obj\Debug\StudentPortal.csproj.CoreCompileInputs.cache
+D:\booksandstuff\c#\StudentPortal\obj\Debug\StudentPortal.exe
+D:\booksandstuff\c#\StudentPortal\obj\Debug\StudentPortal.pdb
